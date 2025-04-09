@@ -1,0 +1,1 @@
+text = "Tuas akan membuka gerbang yang terkait\n\nTekan tuasnya untuk berinteraksi";

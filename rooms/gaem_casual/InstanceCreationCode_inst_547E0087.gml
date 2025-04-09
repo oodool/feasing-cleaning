@@ -1,0 +1,1 @@
+text = "Karakter akan meluncur ke arah yang\nberlawanan dengan arah tembakan\n\nArahkan dan tembak untuk meluncur";
